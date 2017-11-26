@@ -10,7 +10,7 @@ OpenAllBags = function(forceOpen)
 			ToggleKeyRing()
 		end
 	end
-	o()
+	o(forceOpen)
 
 	PlaySound = s
 	ToggleBag = b
