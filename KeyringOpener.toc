@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: Keyring|cff60ff00Opener|r
-## Notes: Opens the keyring whenever all bags are opened
+## Notes: Opens the keyring whenever all bags are opened.
 ## Author: EinBaum https://github.com/EinBaum
 ## Version: 1.0.0
 
